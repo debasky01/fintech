@@ -4,3 +4,4 @@ Pawpaw
 Banana
 Grapes
 Watermelon
+Strawberry
